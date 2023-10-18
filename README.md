@@ -38,3 +38,23 @@ Web development is the process of building and maintaining websites or web appli
 
 5. **Technological Complexity**: Rapid changes in web technologies and the need to keep up with trends can be daunting for developers.
 
+
+## Technologies that can be Used
+
+- **Frontend**:
+  - HTML
+  - CSS
+  - JavaScript
+  - React.js
+
+- **Backend**:
+  - Node.js
+  - Express.js
+  - MongoDB
+
+## Tools
+
+- **Code Editor**: Visual Studio Code
+- **Version Control**: Git and GitHub
+- **Package Manager**: npm
+
