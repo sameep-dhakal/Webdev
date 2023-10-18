@@ -50,6 +50,7 @@ Web development is the process of building and maintaining websites or web appli
 - **Backend**:
   - Node.js
   - Express.js
+  - Django
   - MongoDB
 
 ## Tools
